@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: hades
+description: "hades is a project sharing jekyll theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
