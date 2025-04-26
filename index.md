@@ -2,4 +2,6 @@
 title: Home
 ---
 
-# tonic-starter
+# hades
+
+**Hades** is a jekyll theme to share projects
